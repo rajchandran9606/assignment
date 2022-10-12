@@ -9,7 +9,6 @@ while (n > 0) {
 }
 if (t == val) {
 	console.log("armstrong");
-
 }
 else {
 	console.log("no armstrong");
